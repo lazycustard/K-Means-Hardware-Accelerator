@@ -1,4 +1,7 @@
 # K-Means Hardware Accelerator
+![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-EDA%20Simulator-blue?style=for-the-badge)
 
 A Verilog-based hardware accelerator that implements the K-Means clustering algorithm on FPGA. The project includes both a sequential single-point processor and a parallel N-point processor.
 
