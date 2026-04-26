@@ -136,6 +136,7 @@ This displays an animated scatter plot with:
 - Green X marker: Centroid of Cluster 1
 
 The animation shows points being added one at a time with dynamically updated centroids.
+ ![Image Alt](https://github.com/lazycustard/K-Means-Hardware-Accelerator/blob/main/results/Kmeans%20Visualization.png)
 
 ## Hardware Parameters
 
