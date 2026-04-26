@@ -103,6 +103,7 @@ After running a simulation in ModelSim, load the waveform signals:
 ```
 do wave.do
 ```
+ ![Image Alt](https://github.com/lazycustard/K-Means-Hardware-Accelerator/blob/main/simulations/fsm%20integration.png)
 
 ## Output Format
 
