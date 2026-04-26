@@ -18,7 +18,7 @@ The algorithm works in two main stages:
 top_module (Sequential)
 ├── control_unit     - FSM controller
 ├── distance_calc x2 - Euclidean distance calculators
-└��─ comparator       - Cluster assignment logic
+└─- comparator       - Cluster assignment logic
 
 parallel_top (Parallel, N points)
 └── top_module x N   - N instances operating in parallel
